@@ -1,23 +1,36 @@
 <!--hide-->
-# Hypothesis testing in Python - Step by step guide
+# Estadística: Contrastando hipótesis en Python 🛠
 <!--endhide-->
 
-- Complete the problems using hypothesis testing and Python.
+¡Bienvenidos! Este repositorio contiene soluciones a problemas de pruebas de hipótesis en estadística utilizando Python. Incluye dos ejercicios, cada uno abordando un escenario diferente.
 
-## 🌱  How to start this project.
+## 🍽 Ejercicio 1: Comparación de Dietas
 
-Follow the instructions below:
+- **Descripción**: Investigamos si hay una diferencia significativa en la pérdida de peso entre dos tipos de dietas.
 
-1. Create a new repository by forking the [Git project](https://github.com/4GeeksAcademy/hypothesis-testing-exercises-project-with-python) or [by clicking here](https://github.com/4GeeksAcademy/hypothesis-testing-exercises-project-with-python/fork).
-2. Open the newly created repository in Codespace using the [Codespace button extension](https://docs.github.com/en/codespaces/developing-in-codespaces/creating-a-codespace-for-a-repository#creating-a-codespace-for-a-repository).
-3. Once the Codespace VSCode has finished opening, start your project by following the instructions below.
+- **Datos**: Pérdida de peso (en kg) de dos grupos después de un mes.
 
-## 🚛 How to deliver this project
+- **Pruebas estadísticas**: Z-score y p-valor. Prueba t-student.
 
-Once you have finished solving the exercises, be sure to commit your changes, push to your repository and go to 4Geeks.com to upload the repository link.
+
+## 🌽 Ejercicio 2: Comparación de Fertilizantes
+
+Ejercicio 2: Comparación de Fertilizantes
+Descripción: Evaluamos si hay diferencias en el rendimiento de maíz con tres fertilizantes diferentes.
+Datos: Rendimiento de maíz (en kg) en parcelas tratadas con diferentes fertilizantes.
+Procedimiento:
+Planteamos hipótesis nula y alternativa.
+Realizamos pruebas estadísticas y evaluamos los resultados.
+¡Gracias por tu interés en nuestra investigación! Si tienes alguna pregunta, no dudes en contactarnos. 🌾
+
 
 ## 📝 Instructions
 
-Once you start working on the project, you will see a `./notebook/problems.ipynb` file containing a list of exercises. Complete each of them, one by one.
 
-> NOTA: Solution: https://github.com/4GeeksAcademy/hypothesis-testing-exercises-project-with-python/blob/main/notebook/solutions.ipynb
+Ejercicio 2: Comparación de Fertilizantes
+Descripción: Evaluamos si hay diferencias en el rendimiento de maíz con tres fertilizantes diferentes.
+Datos: Rendimiento de maíz (en kg) en parcelas tratadas con diferentes fertilizantes.
+Procedimiento:
+Planteamos hipótesis nula y alternativa.
+Realizamos pruebas estadísticas y evaluamos los resultados.
+¡Gracias por tu interés en nuestra investigación! Si tienes alguna pregunta, no dudes en contactarnos. 🌾
